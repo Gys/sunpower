@@ -13,9 +13,9 @@ The NASA API provides a lot of data. In this case the ALLSKY_SFC_SW_DWN is used.
 
 **Why**
 
-Sau Sheong Chang created a detailed blog post on the energy requirement of Singapore and how installing solar panels on all rooftops could help. 
-https://medium.com/sausheong/estimate-the-solar-output-of-your-rooftop-with-google-maps-725e4f636f14
-He calculated the average kW-hr/m^2/day by hand and as I was wondering what the value could be for other locations, I decided to just create this small tool for that.
+Sau Sheong Chang created a detailed blog post on the energy requirement of Singapore and how installing solar panels on all rooftops could help: https://medium.com/sausheong/estimate-the-solar-output-of-your-rooftop-with-google-maps-725e4f636f14
+
+He calculated the average kW-hr/m^2/day for Singapore by hand and as I was wondering what the value could be for other locations, I decided to just create this small tool for that.
 
 **Application**
 
