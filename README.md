@@ -34,11 +34,11 @@ Same sample locations, calculated on Feb 7, 2020:
 
 location| latitude longitude |kW-hr/m^2/day|
 |---|---|---|
+|Stockholm|59.326242 17.8419719|2.62|
+|Vancouver|49.282730 -123.120735|3.11|
 |Singapore | 1.352083 103.819839|4.55|
 |Lisbon|38.722501 -9.4323331|4.80|
-|Vancouver|49.282730 -123.120735|3.11|
 |Miami|25.761681 -80.191788|5.01|
 |Abu Dhabi|24.453884 54.377342|5.92|
-|Stockholm|59.326242 17.8419719|2.62|
 
 
