@@ -15,15 +15,15 @@ The NASA API provides a lot of data. In this case the ALLSKY_SFC_SW_DWN is used.
 
 Sau Sheong Chang created a detailed blog post on the energy requirement of Singapore and how installing solar panels on all rooftops could help: https://medium.com/sausheong/estimate-the-solar-output-of-your-rooftop-with-google-maps-725e4f636f14
 
-He calculated the average kW-hr/m^2/day for Singapore by hand and as I was wondering what the value could be for other locations, I decided to just create this small tool for that.
+He calculated the average kW-hr/m^2/day for Singapore by hand. I was wondering what the value could be for other locations, so decided to create this simple tool for that.
 
 **Application**
 
-Given a latitude and longitude SunPower will calculate the average kW-hr/m^2/day for that location, where the average is based on all daily values over a period of the past ten years.
+Given a latitude and longitude SunPower will calculate the average kW-hr/m^2/day for that location, where that average is based on all daily values over a period of the past ten years.
 
 Install:
 
-    go get github/Gys/sunpower
+    go install github/Gys/sunpower
 
 Usage:
 
